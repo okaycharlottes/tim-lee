@@ -1,0 +1,44 @@
+    
+.tim{
+border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 5px solid rgb(207, 197, 197);
+height: 150px;
+width: 150px;    
+}
+
+img{ 
+    
+    height: 100px;
+    width: 130px;
+}
+
+body{
+    font-size: 15px;
+    color: rgb(95, 93, 93);
+    font-family: ;
+}
+
+strong{
+    color: rgb(207, 197, 197);
+    font-style: bold;
+
+}
+
+.see{
+    
+    
+}
+
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+
+}
